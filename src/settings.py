@@ -55,7 +55,7 @@ PAPER: Optional[Union[str, List[str], Dict[str, str]]] = None
 BLOGPOST: Optional[Union[str, List[str], Dict[str, str]]] = ["https://devpost.com/software/signver-a-deep-learning-library-for-signature-verification"]
 REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = {"GitHub":"https://github.com/victordibia/signver"}
 
-CITATION_URL: Optional[str] = None
+CITATION_URL: Optional[str] = "https://www.kaggle.com/datasets/victordibia/signverod"
 AUTHORS: Optional[List[str]] = ["Victor Dibia"]
 AUTHORS_CONTACTS: Optional[List[str]] = ["https://www.kaggle.com/victordibia"]
 
