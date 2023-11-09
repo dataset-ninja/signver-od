@@ -21,3 +21,5 @@ The bank cheques dataset is a collection of xx colored images of bank checks. Th
 - [GSA.gov Lease Documents](https://www.gsa.gov/real-estate/real-estate-services/leasing/executed-lease-documents)
 
 GSA provides electronic copies of GSA lease documents for general public viewing. The lease documents are sorted by region and contain, for the most part, GSA Lease Forms and Lease Amendments (LA) from selected GSA leases across the nation.
+
+<i>Please note that we have removed [duplicate photos](https://github.com/dataset-ninja/signver-od/blob/main/dublicates.txt) from the test split</i>
