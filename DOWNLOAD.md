@@ -1,6 +1,6 @@
 Dataset **SignverOD** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/5sdsibh3gr308ch4xr48d/signverod-DatasetNinja.tar?rlkey=ct8hkydw2fj2p6sqf859vaduj&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzI5MTRfU2lnbnZlck9EL3NpZ252ZXJvZC1EYXRhc2V0TmluamEudGFyIiwgInNpZyI6ICJHb3MzWmk5OGlYeGtmbXhMQWMrelF5L0VPdUM1RGVZdzJCNmVLaGV3c0hNPSJ9)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
